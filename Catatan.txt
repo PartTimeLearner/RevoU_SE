@@ -1,1 +1,5 @@
 Guideline Flexbox = CSS tricks
+Repo = https://github.com/revou-fundamental-course/30-sept-24-PartTimeLearner
+https://app.sli.do/event/2bdmBHkCR4ffFVrqkD4add/live/questions
+
+https://docs.google.com/document/d/1-sE5ahGJlrmTzjQso7lB2SHCdQ2hwbxt6ksZoVxSzTw/edit (Brief)
